@@ -1,1 +1,1 @@
-![Image](src)
+![Image](./images/splashimg.png)
