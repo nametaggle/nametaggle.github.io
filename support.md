@@ -5,5 +5,5 @@ Name Taggle is in pilot testing.  During this phase you can contact the develope
 
 ## Contact Info
 Developer: Brandon Martin
-Phone: 704.860.9088
-email: w.brandon.martin@gmail.com
+Phone: 704-860-9088
+email: brandon (at) deconsec (dot) com
