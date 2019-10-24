@@ -1,6 +1,4 @@
-# Generic EULA template
-
-## End-User License Agreement ("Agreement")
+# End-User License Agreement ("Agreement")
 
 Last updated: October 24, 2019
 
