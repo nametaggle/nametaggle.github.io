@@ -1,4 +1,4 @@
-title: Starter Template
+title: NameTaggle
 author: W Brandon Martin
 email: w.brandon.martin@gmail@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -10,5 +10,7 @@ github_username:  nametaggle
 sass:
     style: compressed
 
-site:
-  pages: Pricing
+header_pages:
+  - about.html
+  - features.html
+  - pricing.html

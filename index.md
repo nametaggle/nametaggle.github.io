@@ -1,5 +1,6 @@
 ---
 layout: home
+title: home
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+NameTaggle

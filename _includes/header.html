@@ -1,5 +1,10 @@
 <nav class="red lighten-1" role="navigation">
+    {% if page.title== "home" %}
     <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}">Hello my name is:</a>
+    {%else %}
+    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}">NameTaggle</a>
+    {% endif %}
+
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
 

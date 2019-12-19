@@ -2,6 +2,7 @@
 layout: page
 title: Pricing
 permalink: /pricing
+path: pricing.html
 ---
 
 # Pricing
