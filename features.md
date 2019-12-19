@@ -30,3 +30,6 @@ The feature that started it all.  Administrators can generate new directories an
 
 ##### Notifications *NEW*
 We've just added notifications.  Unlike other social media platforms, NameTaggle won't notify you about every message or post that occured on the platform.  Instead NameTaggle provides a daily summary of how many new messages you have waiting to read. Instead of deleting or archiving messages - the sender puts an expiration date that will clear them from your inbox.
+
+##### Sticky Notes
+We know it's nice to have a private place to remember things about people  NameTaggle has private sticky notes you can attach to people to help you remember things they didn't include in their profile.  Later you can search to find the unique skill you jotted down but couldn't remember who it was.
