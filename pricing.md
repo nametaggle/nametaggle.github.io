@@ -26,10 +26,10 @@ path: pricing.html
 </div>
 
 ##### Our Pricing Model
-We developed NameTaggle to be a value driven product from the beginning.  We intentionally limited staff and focused on quality to keep costs low.  We make money through subscriptions not advertisements.  It is our intention to keep advertisements out of NameTaggle and let the service provide value for the users and customers.
+We developed NameTaggle to be a value driven product from the beginning.  We intentionally limited staff and focused on quality to keep costs low.  We make money through subscriptions not advertisements.  It is our intention to keep advertisements out of NameTaggle and let the service provide value for the users and customers.  We've tried to simplify our pricing to consider two things: the number of users in your organization and the amount of notifications you're allotted. A single notification can be sent to the entire organization or to just one individual.
 
 ##### Basic Users - FREE
-Basic users can use NameTaggle for Free. This subscriptions permits them to maintain an individual and family profile and share these with as many organizations as they join.
+Basic users can use NameTaggle for Free. This subscriptions permits them to maintain an individual and family profile and share these with as many organizations as they join.  This plan will let you do everything except manage an organization.
 
 ##### Plus Users - $5/year
 In addition to the basic user, Plus users can create one organization with up to 25 Members.  They will have administrative control over the organization including delegating privileges such as Group Leadership and notification management to other users in the organization.
