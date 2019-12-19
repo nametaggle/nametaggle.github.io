@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy
+permalink: /privacypolicy/
+---
+
 # MOBILE APP PRIVACY POLICY
 Last updated October 21, 2019
 

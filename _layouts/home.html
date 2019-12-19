@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <h1 class="header center black-text perm-marker">NameTaggle</h1>
+      <div class="row center">
+        <h5 class="header col s12 light">A new way to build connections in your organization.</h5>
+      </div>
+
+
+      <br><br>
+
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="section">
+
+      <!--   Icon Section   -->
+      <div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center red-text"><i class="material-icons">how_to_reg</i></h2>
+            <h5 class="center">Remember.</h5>
+
+            <p class="light">Have you ever been embarrased when you couldn't remember someone's name?  It happens to everyone.  NameTaggle started as a simple Pictoral Directory to help people remember each other. Imagine driving up to a remote office or meeting and a few taps and scrolls on your mobile device to get a reminder of everyone's name.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center red-text"><i class="material-icons">group</i></h2>
+            <h5 class="center">Connect.</h5>
+
+            <p class="light">Connecting with people in 2020 is tricky.  Everyone uses a different messaging platform and is overwhelmed by the barrage of messages and notifications.  So why add another platform?  NameTaggle isn't intended to be a communication platform, rather it provides a contextual archive of information your members need when they need it.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center red-text"><i class="material-icons">thumb_up</i></h2>
+            <h5 class="center">Engage.</h5>
+
+            <p class="light">Imagine how effective your organization would become if everyone knew everyone.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    </div>
+
+    <div >
+      <section>
+        <h2 class="header center black-text perm-marker">Testimonials</h2>
+      </section>
+
+    </div>
+  <!-- -->
+    <div style="background: #ddd">
+    <div class="container last-post">
+    <section>
+        <h5>Latest Post</h5>
+        <ul class="collection">
+        {% for post in site.posts %}
+        <li class="collection-item avatar">
+          {% assign date_format = site.minima.date_format | default: "%m/%d" %}
+          <div class="date-post">{{ post.date | date: date_format }}</div>
+          <span class="title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
+          <p>
+             {{ post.content | truncatewords: 10 }}
+          </p>
+          <a href="{{ post.url | relative_url }}" class="secondary-content"><i class="material-icons">navigate_next</i></a>
+        </li>
+        {% endfor %}
+        </ul>
+    </section>
+    </div>
+</div>
+<!-- -->
+
+  </div>

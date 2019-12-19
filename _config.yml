@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+title: Starter Template
+author: W Brandon Martin
+email: w.brandon.martin@gmail@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  NameTaggle: A new way to build connections in your organization.
+
+twitter_username: nametaggle
+github_username:  nametaggle
+
+sass:
+    style: compressed
+
+site:
+  pages: Pricing
