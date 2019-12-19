@@ -14,11 +14,11 @@ path: pricing.html
 <table class="striped" >
 <tr><th>Plan</th><th class="center">Users</th><th  class="center">Price/Year</th><th class="center">Notifications</th></tr>
 <tr><td>Basic User</td><td class="center">1</td><td class="center">FREE</td><td class="center">-</td></tr>
-<tr><td>Plus User</td><td class="center">25</td><td class="center">$5</td><td class="center">-</td></tr>
-<tr><td>Gold user</td><td class="center">50</td><td class="center">$10</td><td class="center">-</td></tr>
-<tr><td>Small Organization</td><td class="center">150</td><td class="center">$150</td><td class="center"><i class="material-icons">check</i></td></tr>
-<tr><td>Medium Organization</td><td class="center">500</td><td class="center">$500</td><td class="center"><i class="material-icons">check</i></td></tr>
-<tr><td>Large Organization</td><td class="center">Call</td><td class="center">Call</td><td class="center"><i class="material-icons">check</i></td></tr>
+<tr><td>Plus User</td><td class="center">25</td><td class="center">$5</td><td class="center">25</td></tr>
+<tr><td>Gold user</td><td class="center">50</td><td class="center">$10</td><td class="center">50</td></tr>
+<tr><td>Small Organization</td><td class="center">150</td><td class="center">$150</td><td class="center">Unlimited</td></tr>
+<tr><td>Medium Organization</td><td class="center">500</td><td class="center">$500</td><td class="center">Unlimited</td></tr>
+<tr><td>Large Organization</td><td class="center">Call</td><td class="center">Call</td><td class="center">Unlimited</td></tr>
 </table>
 </div>
 

@@ -13,4 +13,5 @@ sass:
 header_pages:
   - about.html
   - features.html
+  - getstarted.html
   - pricing.html
