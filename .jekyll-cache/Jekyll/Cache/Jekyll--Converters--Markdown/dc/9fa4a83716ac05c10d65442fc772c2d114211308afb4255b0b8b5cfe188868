@@ -1,11 +1,4 @@
----
-layout: page
-title: About
-permalink: /about
-path: about.html
----
-
-<h1 class= "perm-marker">NameTaggle's Story</h1>
+I"Á<h1 class="perm-marker">NameTaggle's Story</h1>
 <p>It all started when someone asked the simple question: "Why doesn't our Church have and app?</p>
 
 <p>This perked my ears since I was interested in mobile application development and completed several hobby projects in the past. The immediate need at our church was a pictoral directory.  Our church traditionally scheduled a photographer and then all the members time slots and produced a nice booklet with all the families and their contact information.  The problem was the printed booklet was out dated before it arrived as new members had joined, but missed the picture date.</p>
@@ -14,3 +7,4 @@ path: about.html
 
 <p>At this point, I'd laid aside my other consulting business and decided to focus all my energy on building this application.  It took some time to learn new languages, platforms, and weave security into everything.  In December 2019, I finally felt good enough about the product to finish the webstite and begin testing with a larger audience.  
 </p>
+:ET

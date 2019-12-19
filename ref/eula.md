@@ -2,6 +2,7 @@
 layout: page
 title: End-User License Agreement
 permalink: /eula/
+path: /ref/eula.html
 ---
 
 # End-User License Agreement ("Agreement")
