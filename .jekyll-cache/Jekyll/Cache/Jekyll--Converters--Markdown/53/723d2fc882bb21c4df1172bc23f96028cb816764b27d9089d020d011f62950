@@ -1,0 +1,30 @@
+I"	<h1 class="perm-marker"> Pricing </h1>
+
+<table class="striped">
+<tr><th>Plan</th><th>Users</th><th>Price/Year</th><th>Notifications</th></tr>
+<tr><td>Basic User</td><td>1</td><td>Free</td><td>-</td></tr>
+<tr><td>Plus User</td><td>25</td><td>$5</td><td>-</td></tr>
+<tr><td>Gold user</td><td>50</td><td>$10</td><td>-</td></tr>
+<tr><td>Small Organization</td><td>150</td><td>$150</td><td><i class="material-icons">check</i></td></tr>
+<tr><td>medium Organization</td><td>500</td><td>$500</td><td><i class="material-icons">check</i></td></tr>
+<tr><td>Large Organization</td><td>???</td><td>Call</td><td><i class="material-icons">check</i></td></tr>
+</table>
+
+<h5 id="our-pricing-model">Our Pricing Model</h5>
+<p>We developed NameTaggle to be a value driven product from the beginning.  We intentionally limited staff and focused on quality to keep costs low.  We make money through subscriptions not advertisements.  It is our intention to keep advertisements out of NameTaggle and let the service provide value for the users and customers.</p>
+
+<h5 id="basic-users---free">Basic Users - FREE</h5>
+<p>Basic users can use NameTaggle for Free. This subscriptions permits them to maintain an individual and family profile and share these with as many organizations as they join.</p>
+
+<h5 id="plus-users---5year">Plus Users - $5/year</h5>
+<p>In addition to the basic user, Plus users can create one organization with up to 25 Members.  They will have administrative control over the organization including delegating privileges such as Group Leadership and notification management to other users in the organization.</p>
+
+<h5 id="gold-users---10year">Gold Users - $10/year</h5>
+<p>In addition to the basic user, Plus users can manage one organization with up to 50 Members.  They will have administrative control over the organization including delegating privileges such as Group Leadership to other users in the organization.</p>
+
+<h5 id="small-organization---150year">Small Organization - $150/year</h5>
+<p>Small organizations get up to 150 users and the ability to notify their membership with notifications in addition to the features included with the user plan.</p>
+
+<h5 id="medium-organization---500year">Medium Organization - $500/year</h5>
+<p>Medium organizations can include up to 500 users and gain access to extended support.</p>
+:ET
