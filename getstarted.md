@@ -15,4 +15,4 @@ To get started, go to your platform's app store on your mobile device:
 </tr>
 </table>
 
-Then join an organization and look around.
+All you'll need is an Organization's Join Code, which you can get from an administrator of that organization. Then create your own profile and have a look around!
