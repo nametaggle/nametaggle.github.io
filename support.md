@@ -7,7 +7,7 @@ permalink: /support/
 # Support
 
 ## About Support
-Name Taggle is in pilot testing.  During this phase you can contact the developer directly with questions and feedback.  Our support model will change as we move towards a general release.
+In this early stage of Name Taggle development, please contact Brandon (the developer) directly with questions and feedback.  Our support model will change as we move towards a general release but getting your feedback quickly and directly will help us to improve the application for our users with every update. 
 
 ## Contact Info
 Developer: Brandon Martin
