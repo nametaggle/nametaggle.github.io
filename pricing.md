@@ -26,19 +26,19 @@ path: pricing.html
 </div>
 
 ##### Our Pricing Model
-We developed NameTaggle to be a value driven product from the beginning. We intentionally limited staff and focused on quality to keep costs low. We make money through subscriptions not advertisements. It is our intention to keep advertisements out of NameTaggle and let the service provide value for the users and customers. We’ve tried to simplify our pricing to consider two things: the number of users in your organization and the amount of notifications you’re allotted. A single notification can be sent to the entire organization or to just one individual.
+NameTaggle is the work of a small team with a single developer. To keep it ad-free and high-quality, we charge our users a modest subscription fee. We keep our pricing simple by basing it on two variables: the number of users in your organization and the number of notifications you’re allotted. *A single notification can be sent to an entire organization or to just one individual*.
 
 ##### Basic Users - FREE
-Basic users can use NameTaggle for Free. This subscription permits them to maintain an individual and family profile and share these with as many organizations as they join. This plan will let you do everything except manage an organization.
+Basic Users can maintain an individual and family profile and share these with as many organizations as they join.
 
 ##### Plus Users - $5/year
-In addition to the basic user, Plus users can create one organization with up to 25 Members. They will have administrative control over the organization including delegating privileges such as Group Leadership and notification management to other users in the organization.
+Plus Users can create and manage 1 organization with up to 25 Members. This includes administrative control over delegating privileges and managing notifications. 
 
 ##### Gold Users - $10/year
-In addition to the plus user, Gold users can manage one organization with up to 50 Members. They will have administrative control over the organization including delegating privileges such as Group Leadership to other users in the organization.
+Gold Users can create and manage 1 organization with up to 50 Members. As with Plus Users, this includes administrative control over delegating privileges and managing notifications.
 
 ##### Small Organization - $150/year
-Small organizations get up to 150 users and the ability to notify their membership with notifications in addition to the features included with the user plan.
+Subscriptions can also start at the organization level. Small Organizations get all user features for up to 150 users, as well as the ability to use notifications.
 
 ##### Medium Organization - $500/year
-Medium organizations can include up to 500 users and gain access to extended support.
+Medium Organizations can include up to 500 users and gain access to extended support.
