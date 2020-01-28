@@ -4,22 +4,23 @@
 *January 31, 2020*
 
 ##### What's New?
-
-* Group managers will be able to copy the email addresses for the members on the focus screen.
-* New users default settings will share their contact information with organizations by default.  When users join new organizations, the sharing preferences from their primary organization will be the initial preferences for the new organizations.
-* NameTaggle added an additional production application server to improve response times.
-* An individual's group membership was reporting inconsistently based on how the group/member was added (e.g. Groups added to an individual's profile would sometimes appear differently that individuals added on the Group Edit page. )
-* Simplified Login screen labels - The "username" prompt highlights the Mobile Phone login option.  users can still login with username or email address.
-* Switch inputs will be green when turned on.  These were formerly red and caused confusion.
-* Individual Profiles now have an optional Work Phone #.
-* Added a calendar web link for organizations to point users to their calendars.
-* Several long running processes now signal to the user they are in process with a message on the loading indicator screen.
-* New users will get a prompt to jump to their Individual Profile page to complete setup and update their picture.
-* Apple users will now see a badge on their launch screen signaling they have notifications.  Android users with some phones may also see this.
-* When a user arrives at their dashboard and they have a placeholder picture they'll get a popup prompt that takes them to their user profile edit screen to choose a picture.
-* When a user enters an unknown phone number email at the login screen the app will prompt them to create an account (or try again).
-* When a user launches the app on a new phone, NameTaggle will prompt them to create an account or sign in.  After the first launch they shouldn't see this screen.
-
+<ul>
+<li>Group managers will be able to copy the email addresses for the members on the focus screen.
+</li><li>New users default settings will share their contact information with organizations by default.  When users join new organizations, the sharing preferences from their primary organization will be the initial preferences for the new organizations.
+</li><li>NameTaggle added an additional production application server to improve response times.
+</li><li>An individual's group membership was reporting inconsistently based on how the group/member was added (e.g. Groups added to an individual's profile would sometimes appear differently that individuals added on the Group Edit page. )
+</li><li>Simplified Login screen labels - The "username" prompt highlights the Mobile Phone login option.  users can still login with username or email address.
+</li><li>Switch inputs will be green when turned on.  These were formerly red and caused confusion.
+</li><li>Individual Profiles now have an optional Work Phone #.
+</li><li>Added a calendar web link for organizations to point users to their calendars.
+</li><li>Several long running processes now signal to the user they are in process with a message on the loading indicator screen.
+</li><li>New users will get a prompt to jump to their Individual Profile page to complete setup and update their picture.
+</li><li>Apple users will now see a badge on their launch screen signaling they have notifications.  Android users with some phones may also see this.
+</li><li>When a user arrives at their dashboard and they have a placeholder picture they'll get a popup prompt that takes them to their user profile edit screen to choose a picture.
+</li><li>When a user enters an unknown phone number email at the login screen the app will prompt them to create an account (or try again).
+</li><li>When a user launches the app on a new phone, NameTaggle will prompt them to create an account or sign in.  After the first launch they shouldn't see this screen.
+</li>
+</ul>
 
 
 
