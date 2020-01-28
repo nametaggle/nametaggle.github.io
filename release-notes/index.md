@@ -4,7 +4,7 @@
 *January 31, 2020*
 
 ##### What's New?
-<ul>
+<ul style="list-style-type: circle;">
 <li>Group managers will be able to copy the email addresses for the members on the focus screen.
 </li><li>New users default settings will share their contact information with organizations by default.  When users join new organizations, the sharing preferences from their primary organization will be the initial preferences for the new organizations.
 </li><li>NameTaggle added an additional production application server to improve response times.
