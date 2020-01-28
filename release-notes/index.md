@@ -1,9 +1,9 @@
 ## Release Notes
 
-### 0.1.0 (Build 30)
-#### January 31, 2020
+#### 0.1.0 (Build 30)
+##### January 31, 2020
 
-What's New
+##### What's New?
 * Group managers will be able to copy the email addresses for the members on the focus screen.
 * New users default settings will share their contact information with organizations by default.  When users join new organizations, the sharing preferences from their primary organization will be the initial preferences for the new organizations.
 * NameTaggle added an additional production application server to improve response times.
@@ -22,7 +22,7 @@ What's New
 
 
 
-Bug Fixes
+##### Bug Fixes:
 * When creating individuals and families, the default values like "New" and "Person" will no longer be pre-populated.  These initial values were leaving spaces in the names and breaking the alphabetic order of these lists.
 * Fixed alphabetic order on activity groups.
 * The dashboard should now display behind popups.  Previously a popup user notification would hide the dashboard pictures.
