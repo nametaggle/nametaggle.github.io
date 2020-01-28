@@ -17,6 +17,7 @@ What's New
 * Apple users will now see a badge on their launch screen signaling they have notifications.  Android users with some phones may also see this.
 * When a user arrives at their dashboard and they have a placeholder picture they'll get a popup prompt that takes them to their user profile edit screen to choose a picture.
 * When a user enters an unknown phone number email at the login screen the app will prompt them to create an account (or try again).
+* When a user launches the app on a new phone, NameTaggle will prompt them to create an account or sign in.  After the first launch they shouldn't see this screen.
 
 
 
