@@ -1,6 +1,6 @@
-# Release Notes
+## Release Notes
 
-## 0.1.0 (Build 30)
+### 0.1.0 (Build 30)
 January 31, 2020
 
 What's New
