@@ -23,7 +23,7 @@ What's New
 
 
 Bug Fixes
-* When creating individuals and families, the default values like "New" and "Person" will no longer be prepopulated.  These initial values were leaving spaces in the names and breaking the alphabetic order of these lists.
+* When creating individuals and families, the default values like "New" and "Person" will no longer be pre-populated.  These initial values were leaving spaces in the names and breaking the alphabetic order of these lists.
 * Fixed alphabetic order on activity groups.
 * The dashboard should now display behind popups.  Previously a popup user notification would hide the dashboard pictures.
 * Apple users will now be able to choose pictures outside their photos when they choose "Other Files"
