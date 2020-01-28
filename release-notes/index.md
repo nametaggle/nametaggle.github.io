@@ -1,7 +1,7 @@
 ## Release Notes
 
 ### 0.1.0 (Build 30)
-January 31, 2020
+#### January 31, 2020
 
 What's New
 * Group managers will be able to copy the email addresses for the members on the focus screen.
