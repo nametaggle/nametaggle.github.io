@@ -40,3 +40,5 @@ The following list of improvements have been proposed by users.  We're still dis
 * Organization administrators will be able to generate a report with members names and addresses formatted for stick-on labels based on groups.
 * My Activity Groups page was cutting off some activity groups due to a scrolling configuration error.
 * Notification senders can view read receipts.
+* Organizaitons that wish to use the verified group should have a workflow to review and approve verification requests.
+* Organizations can configure their mail server to deliver email notifications.
