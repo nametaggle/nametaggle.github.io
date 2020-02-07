@@ -29,9 +29,9 @@ ul {
   }
 }
 
-// ul.release-bullets {
-//   list-style-type: disc;
-// }
+ul.release-bullets.li {
+  list-style-type: disc;
+}
 
 a {
 	color: $link-color;
