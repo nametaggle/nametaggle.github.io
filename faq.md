@@ -6,11 +6,14 @@ permalink: /faq/
 
 <h1 class="perm-marker">Frequently Asked Questions</h1>
 
-##### How is NameTaggle different from social media platforms?
+#### How is NameTaggle different from social media platforms?
 NameTaggle is very different from most social media platforms.  NameTaggle is intended to be used infrequently - primarily when you want to remember someone's name or what organizational groups they belong to.
 
-##### Is NameTaggle secure?
+#### Is NameTaggle secure?
 NameTaggle was designed from the beginning to be secure.  First, we don't want you to enter any information that you wouldn't put in a phone book.  The developer of NameTaggle focused five years of his career on information security for large enterprises and five years before that managing projects and developing software at one of the largest US banks.  We also give users the option to manage which organizations can see your personal information like phone number and address.
 
-##### How does NameTaggle provide this service without advertisements?
+#### How does NameTaggle provide this service without advertisements?
 NameTaggle provides a paid service for organizations.  Individual user accounts are free, but organizations pay for the service based on how many individual profiles they have attached to their organization.  We do not sell or disclose your personal information to anyone outside the app.
+
+#### Will NameTaggle send me a lot of junk mail?
+No.  NameTaggle as a platform sends you minimal emails and text messages.  Organizations that you join can send you push notifications and emails with their own updates.
