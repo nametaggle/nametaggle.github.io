@@ -4,9 +4,11 @@
 *February 7, 2020*
 
 ##### What's New?
-* The fast login option will now be enabled by default for new users.  This option allows users to login without authenticating after the application closes.
-* No more hidden actions! All the actions that could be hidden for a screen have moved into the Vertical elipses menu at the top right corner of the screen.
-
+<ul class="release-bullets">
+<li>The fast login option will now be enabled by default for new users.  This option allows users to login without authenticating after the application closes.
+</li><li> No more hidden actions! All the actions that could be hidden for a screen have moved into the Vertical elipses menu at the top right corner of the screen.
+</li>
+</ul>
 <hr>
 #### 0.1.0 (Build 34)
 *January 31, 2020*
