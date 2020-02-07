@@ -12,8 +12,12 @@
 *January 31, 2020*
 
 ##### What's New?
-* Group managers will be able to copy the email addresses for the members on the focus screen.
-* New users default settings will share their contact information with organizations by default.  When users join new organizations, the sharing preferences from their primary organization will be the initial preferences for the new organizations.
+<ul class="release-bullets">
+<li> Group managers will be able to copy the email addresses for the members on the focus screen.
+</li>
+</ul>
+
+New users default settings will share their contact information with organizations by default.  When users join new organizations, the sharing preferences from their primary organization will be the initial preferences for the new organizations.
 * NameTaggle added an additional production application server to improve response times.
 * An individual's group membership was reporting inconsistently based on how the group/member was added (e.g. Groups added to an individual's profile would sometimes appear differently that individuals added on the Group Edit page. )
 * Simplified Login screen labels - The "username" prompt highlights the Mobile Phone login option.  users can still login with username or email address.

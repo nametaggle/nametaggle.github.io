@@ -17,3 +17,6 @@ path: about.html
 <p>I created the original application and started sharing it with friends. One of those friends told me he could really use something like it for his work.  I was caught off-guard. Up until that moment, I had only dreamed of a mobile church pictorial directory. His insight was inspirational - forgetting people's names isn't limited to religious organizations, and this app could help lots of people connect with others in their various organizations.</p>
 
 <p>I laid aside my other consulting business and decided to focus all my energy on building NameTaggle. It took time to learn new languages, platforms, and weave security into everything. In December 2019, I finally felt good enough to launch NameTaggle with a larger audience.</p>
+
+<iframe src="https://youtu.be/W5mO1ZYzsP0"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
