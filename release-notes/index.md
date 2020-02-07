@@ -41,7 +41,7 @@
 </li><li>Apple users will now be able to choose pictures outside their photos when they choose "Other Files"
 </li><li>Home Phone is no longer required.
 
-
+<hr>
 ### RoadMap Improvments:
 The following list of improvements have been proposed by users.  We're still discussing the best way to implement these features and target timelines:
 
