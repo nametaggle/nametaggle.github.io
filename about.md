@@ -18,5 +18,4 @@ path: about.html
 
 <p>I laid aside my other consulting business and decided to focus all my energy on building NameTaggle. It took time to learn new languages, platforms, and weave security into everything. In December 2019, I finally felt good enough to launch NameTaggle with a larger audience.</p>
 
-<iframe src="https://youtu.be/W5mO1ZYzsP0"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5mO1ZYzsP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
