@@ -38,7 +38,7 @@
 <li> When creating individuals and families, the default values like "New" and "Person" will no longer be pre-populated.  These initial values were leaving spaces in the names and breaking the alphabetic order of these lists.
 </li><li>Fixed alphabetic order on activity groups.
 </li><li>The dashboard should now display behind popups.  Previously a popup user notification would hide the dashboard pictures.
-</li></li>Apple users will now be able to choose pictures outside their photos when they choose "Other Files"
+</li><li>Apple users will now be able to choose pictures outside their photos when they choose "Other Files"
 </li><li>Home Phone is no longer required.
 
 
@@ -52,6 +52,6 @@ The following list of improvements have been proposed by users.  We're still dis
 </li><li>Organization administrators will be able to generate a report with members names and addresses formatted for stick-on labels based on groups.
 </li><li>My Activity Groups page was cutting off some activity groups due to a scrolling configuration error.
 </li><li>Notification senders can view read receipts.
-</li></li>Organizaitons that wish to use the verified group should have a workflow to review and approve verification requests.
+</li><li>Organizaitons that wish to use the verified group should have a workflow to review and approve verification requests.
 </li><li>Organizations can configure their mail server to deliver email notifications.
 </li></ul>
