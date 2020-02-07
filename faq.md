@@ -15,5 +15,5 @@ NameTaggle was designed from the beginning to be secure.  First, we don't want y
 #### How does NameTaggle provide this service without advertisements?
 NameTaggle provides a paid service for organizations.  Individual user accounts are free, but organizations pay for the service based on how many individual profiles they have attached to their organization.  We do not sell or disclose your personal information to anyone outside the app.
 
-#### Will NameTaggle send me a lot of junk mail?
-No.  NameTaggle as a platform sends you minimal emails and text messages.  Organizations that you join can send you push notifications and emails with their own updates.
+#### Will NameTaggle send me a lot of spam notifications?
+No.  NameTaggle as a platform sends you minimal emails and text messages.  Organizations that you join can send you push notifications and emails with their own updates.  NameTaggle will not share your contact information with 3rd parties.
