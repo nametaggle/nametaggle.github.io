@@ -1,5 +1,23 @@
 ### Release Notes
 
+
+#### 0.1.2 (Build 38)
+*February 14, 2020*
+
+##### What's New?
+<ul class="release-bullets">
+<li>We improved our color scheme control.  Organization Administrators can now select any color for their organization's color schme</li>
+<li>Groups with closed membership (i.e. the group owner manages the member list) now provide a hint in the "more actions" menu (three vertical dots) when the group is closed.</li>
+</ul>
+
+##### Bug Fixes?
+<ul class="release-bullets">
+<li>Some users weren't seeing confirmation their family was created and re-created them.  We've changed the create family process to confirm the family is present and associated with the individual profile.</li>
+<li>NameTaggle was incorrectly rejecting email Addresses with underscore characters.  Those should be allowed without question after this release.</li>
+</ul>
+<hr>
+
+
 #### 0.1.1 (Build 35)
 *February 7, 2020*
 
@@ -10,6 +28,8 @@
 </li>
 </ul>
 <hr>
+
+
 #### 0.1.0 (Build 34)
 *January 31, 2020*
 
