@@ -1,7 +1,7 @@
 ### Release Notes
 
 
-#### 0.1.2 (Build 38)
+#### 0.1.2 (Build 39)
 *February 14, 2020*
 
 ##### What's New?
