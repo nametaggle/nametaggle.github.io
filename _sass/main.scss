@@ -74,7 +74,12 @@ table.procedure-table, .procedure-table th,  .procedure-table td{
 }
 
 .procedure-table th{
+  border: 1px solid white;
+}
+
+.procedure-table th{
   background-color: black;
   color: white;
   font-weight: bold;
+  text-align:  - center
 }
