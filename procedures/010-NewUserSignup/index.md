@@ -98,11 +98,19 @@ Follow these steps to install and sign up with NameTaggle:
     <td class="step-num">8</td>
     <td class="description"> Scroll until you find your organization and tap the logo.
     <span class="procedure-hint">
-      Hint: You can tap the magnifying glass in the top right corner to search throughout the application.
+      Hint: You can tap the magnifying glass in the top right corner to search by name.
       </span>
 
     </td>
-    <td class="help"><img height="15%" src=""></td>
+    <td class="help"><img src="assets/index-75e95b0e.png"></td>
+  </tr>
+
+  <tr>
+    <td class="step-num">8</td>
+    <td class="description">
+      Verify you found the correct organization and tap the "JOIN" button.
+    </td>
+    <td class="help"><img src="assets/index-75e95b0e.png"></td>
   </tr>
 
   <tr>
@@ -113,10 +121,10 @@ Follow these steps to install and sign up with NameTaggle:
       </span>
       <br>
     <span class="procedure-hint">
-      Hint: NameTaggle will let you correct any errors and try again.
+      Hint: If something doesn't work, NameTaggle will let you correct any errors and try again.
     </span>
     </td>
-    <td class="help"><img height="15%" src=""></td>
+    <td class="help"><img src=""></td>
   </tr>
 
   <tr>
