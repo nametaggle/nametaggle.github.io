@@ -69,7 +69,7 @@ Follow these steps to setup your individual profile in NameTaggle:
 
   <tr>
     <td class="step-num">4</td>
-    <td class="description">NameTaggle will present a popup. choose one:
+    <td class="description">NameTaggle will present a popup selction menu. choose one:
     <ul>
       <li>Camera - Take a new selfie.</li>
       <li>Gallery - Select a previous photo from your photo collection.</li>
@@ -85,24 +85,26 @@ Follow these steps to setup your individual profile in NameTaggle:
   </tr>
 
   <tr>
-    <td class="step-num">#</td>
-    <td class="description">_
+    <td class="step-num">5</td>
+    <td class="description">After selecting/taking a picture, you'll have the opportunity to crop a picture.
       <span class="procedure-hint">
-        Hint:
+        Hint: Android and iPhone cropping looks slightly different.
       </span>
     </td>
     <td class="help">
+    <img src="assets/index-52b1e334.png">
     </td>
   </tr>
 
   <tr>
-    <td class="step-num">#</td>
-    <td class="description">_
+    <td class="step-num">6</td>
+    <td class="description"> Tap the Save button to see how other people will see your profile.
       <span class="procedure-hint">
-        Hint:
+        Hint: You can continue editing your profile, but don't forget to save your changes
       </span>
     </td>
     <td class="help">
+    <img src="assets/index-1dc63dea.png">
     </td>
   </tr>
 
