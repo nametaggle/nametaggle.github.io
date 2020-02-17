@@ -51,7 +51,11 @@ Follow these steps to install and sign up with NameTaggle:
 
   <tr>
     <td class="step-num">4</td>
-    <td class="description">Enter your mobile phone number(A) and tap "NEXT"(B). (NameTaggle will send you a test Message.)</td>
+    <td class="description">Enter your mobile phone number(A) and tap "NEXT"(B). (NameTaggle will send you a test Message.)
+
+    <span class="procedure-hint">
+    Hint: You cannot reuse this phone number with a different account.</span>
+    </td>
     <td class="help"><img  src="assets/index-cdff2edb.png"></td>
   </tr>
 
@@ -65,15 +69,19 @@ Follow these steps to install and sign up with NameTaggle:
 
   <tr>
     <td class="step-num">5</td>
-    <td class="description">Enter First Name (A), Last Name (B), and email address (C). Then tap the "NEXT" button (D).</td>
+    <td class="description">Enter First Name (A), Last Name (B), and email address (C). Then tap the "NEXT" button (D).
+    <span class="procedure-hint">
+    Hint: You cannot reuse this email with a different account</span>
+
+    </td>
     <td class="help"><img src="assets/index-26ec192a.png"></td>
   </tr>
 
 
   <tr>
     <td class="step-num">6</td>
-    <td class="description">Enter your password (twice) and tap "NEXT".</td>
-    <td class="help"><img height="15%" src=""></td>
+    <td class="description">Enter your password (twice A,B) and tap "CREATE" (C).</td>
+    <td class="help"><img  src="assets/index-6f424b7f.png"></td>
   </tr>
 
   <tr>
