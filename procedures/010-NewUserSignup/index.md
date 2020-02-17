@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Businesses
-permalink: /business/
+permalink: /procedures/010-Signup/
 ---
 
 <h1 class="perm-marker">Install & Signup</h1>
