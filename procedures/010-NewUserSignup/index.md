@@ -38,7 +38,7 @@ Before you begin make sure you have:
   </tr>
   <tr>
     <td class="step-num">2</td>
-    <td class="description">Open the app and tap the "NEW USER SIGNUP" BUTTON</td>
+    <td class="description">Open the app and tap the "NEW USER SIGN UP" BUTTON</td>
     <td class="help"><img src="assets/index-52b6ff02.png"></td>
   </tr>
 </table>
