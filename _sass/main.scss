@@ -83,12 +83,13 @@ table.procedure-table {
 }
 
 .procedure-table td{
-    border: 1px solid black;
+  border: 1px solid black;
 }
 
 .procedure-table td.step-num{
-    text-align: right;
-    width: 15%;
+  vertical-align: text-top;
+  text-align: right;
+  width: 15%;
 }
 
 .procedure-table td.description{
