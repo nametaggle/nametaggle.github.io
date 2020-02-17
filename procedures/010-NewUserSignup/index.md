@@ -14,9 +14,8 @@ New users who would like step-by-step instructions to install and setup NameTagg
 ##### What should I have ready before I start?
 Before you begin make sure you have:
 <ul class="release-bullets">
-<li> Your smart phone (NameTaggle will send you a verification text message).</li>
-<li> A picture of yourself (You can crop a digital picture from your phone or take a selfie during setup.)</li>
-<li>The "Join Code" from the organization you intend to connect with.</li>
+<li> Your smart phone (NameTaggle will send you a verification text message.)</li>
+<li>The "Join Code" from the organization you're joing</li>
 </ul>
 
 <br>
@@ -133,7 +132,7 @@ Follow these steps to install and sign up with NameTaggle:
 
   <tr>
     <td class="step-num">11</td>
-    <td class="description"> END OF PROCEDURE - Congratulations! you've completed the install and signup for NameTaggle.  You should see your dashboard screen if your join code was correct. You're now ready to setup your profile.
+    <td class="description"> END OF PROCEDURE - Congratulations! you've completed the install and signup for NameTaggle.  You should see your dashboard screen if your join code was correct. You're now ready to <a href="/procedures/020-ProfileSetup/">setup your profile</a>.
     <br>
 
     </td>
@@ -147,6 +146,7 @@ Follow these steps to install and sign up with NameTaggle:
 You may also be interested in:
 <ul class="release-bullets">
 <li>The <a class="" href="/about/">story</a> of NameTaggle</li>
+<li>Setting up your profile in NameTaggle</li>
 <li>Setting up a family in NameTaggle</li>
 <li>Joining Groups in NameTaggle</li>
 </ul>
