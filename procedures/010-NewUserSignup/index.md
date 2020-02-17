@@ -17,12 +17,31 @@ Before you begin make sure you have:
 </ul>
 
 ##### How do I Install & Signup for NameTaggle
-Coworking spaces and shared offices are incresingly common. It's fun to meet new people, but how many water cooler conversations will it take for you to remember that gal's name? And which guy was the Yankee's fan? With no one around you can ask for help, why not invite them to join NameTaggle and always have the reminder only a few taps away?
+<table>
+<tr>
+  <th>Step</th>
+  <th>Description</th>
+  <th> Help></th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>Download and install the app for your phone. </td>
+  <td>
+    <a href="https://apps.apple.com/us/app/nametaggle/id1479297455"><img src ="./assets/download-app-store.png"></a>
+    <br>
+    <a href="https://play.google.com/store/apps/details?id=com.nametaggle.nametaggle&hl=en_US"><img src ="./assets/download-google-play.png"></a>
+  </td>
+</tr>
+<tr>
+  <td>2</td>
+  <td></td>
+
+
 
 ##### Additional Resources
 You may also be interested in
 <ul class="release-bullets">
-<li>The <a class="white-text" href="/about/">story</a> of NameTaggle</li>
+<li>The <a class="" href="/about/">story</a> of NameTaggle</li>
 <li>Setting up a family in NameTaggle</li>
 <li>Joining Groups in nameTaggle</li>
 </ul>
