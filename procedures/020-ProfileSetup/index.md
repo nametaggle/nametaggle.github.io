@@ -4,7 +4,7 @@ title: Individual Profile Setup
 # permalink: /procedures/010-NewUserSignup/
 ---
 
-<h1 class="perm-marker">Individual Profile Setup C</h1>
+<h1 class="perm-marker">Individual Profile Setup</h1>
 
 <br>
 ##### Who should use this procedure?
@@ -58,9 +58,6 @@ Follow these steps to setup your individual profile in NameTaggle:
   <tr>
     <td class="step-num">3</td>
     <td class="description">Tap on the current picture.
-      <span class="procedure-hint">
-        Hint:
-      </span>
     </td>
     <td class="help">
     <img src="assets/index-ac26342d.png">
@@ -75,9 +72,6 @@ Follow these steps to setup your individual profile in NameTaggle:
       <li>Gallery - Select a previous photo from your photo collection.</li>
       <li>Other Files - Other locations like cloud storage.</li>
     </ul>
-      <span class="procedure-hint">
-        Hint:
-      </span>
     </td>
     <td class="help">
     <img src="assets/index-cfd766f6.png">
@@ -87,6 +81,7 @@ Follow these steps to setup your individual profile in NameTaggle:
   <tr>
     <td class="step-num">5</td>
     <td class="description">After selecting/taking a picture, you'll have the opportunity to crop a picture.
+    <br>
       <span class="procedure-hint">
         Hint: Android and iPhone cropping looks slightly different.
       </span>
@@ -100,7 +95,7 @@ Follow these steps to setup your individual profile in NameTaggle:
     <td class="step-num">6</td>
     <td class="description"> Tap the Save button to see how other people will see your profile.
       <span class="procedure-hint">
-        Hint: You can continue editing your profile, but don't forget to save your changes
+        Hint: You can continue editing your profile, but don't forget to save your changes.
       </span>
     </td>
     <td class="help">
@@ -110,12 +105,13 @@ Follow these steps to setup your individual profile in NameTaggle:
 
   <tr>
     <td class="step-num">#</td>
-    <td class="description">_
+    <td class="description">END OF PROCEDURE - Congratulations, you've now set your profile picture.
       <span class="procedure-hint">
-        Hint:
+        Hint: If you'd like to update your address, add a family or adjust other settings. tap the "EDIT" button again to continue editing.
       </span>
     </td>
     <td class="help">
+    <img src="assets/index-1dc63dea.png">
     </td>
   </tr>
 
