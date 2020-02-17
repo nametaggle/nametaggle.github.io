@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Businesses
+title: Signup and Install
 permalink: /procedures/010-Signup/
 ---
 
