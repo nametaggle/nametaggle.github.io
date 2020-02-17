@@ -106,15 +106,17 @@ Follow these steps to install and sign up with NameTaggle:
   </tr>
 
   <tr>
-    <td class="step-num">8</td>
+    <td class="step-num">9</td>
     <td class="description">
       Verify you found the correct organization and tap the "JOIN" button.
     </td>
-    <td class="help"><img src="assets/index-75e95b0e.png"></td>
+    <td class="help"><img src="assets/index-5c5916b6.png"></td>
   </tr>
 
+
+
   <tr>
-    <td class="step-num">7</td>
+    <td class="step-num">10</td>
     <td class="description"> Enter your organization's join code.
     <span class="procedure-hint">
       Hint: You probably received this with the NameTaggle invitation/announcement.
@@ -124,17 +126,10 @@ Follow these steps to install and sign up with NameTaggle:
       Hint: If something doesn't work, NameTaggle will let you correct any errors and try again.
     </span>
     </td>
-    <td class="help"><img src=""></td>
+    <td class="help"><img src="assets/index-e4a0ef36.png"></td>
   </tr>
 
-  <tr>
-    <td class="step-num">8</td>
-    <td class="description"> Enter your organization's join code.
-    Hint: You probably received this with the NameTaggle invitation/announcement.
-    Hint: NameTaggle will let you correct any errors and try again.
-    </td>
-    <td class="help"><img height="15%" src=""></td>
-  </tr>
+
 
 </table>
 
