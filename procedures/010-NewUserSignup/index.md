@@ -6,9 +6,11 @@ permalink: /procedures/010-Signup/
 
 <h1 class="perm-marker">Install & Signup</h1>
 
+<br>
 ##### Who should use this procedure?
 New users that would like step-by-step instructions to install and setup NameTaggle.
 
+<br>
 ##### What should I have ready before I start?
 Before you begin make sure you have:
 <ul class="release-bullets">
@@ -16,6 +18,7 @@ Before you begin make sure you have:
 <li> A picture of yourself (You can crop a larger picture or take one with your phone camera during setup.)</li>
 </ul>
 
+<br>
 ##### How do I Install & Signup for NameTaggle
 <table class="procedure-table">
   <tr>
