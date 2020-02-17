@@ -39,13 +39,40 @@ Before you begin make sure you have:
   <tr>
     <td class="step-num">2</td>
     <td class="description">Open the app and tap the "NEW USER SIGN UP" button.</td>
-    <td class="help"><img height="15%"  src="assets/index-52b6ff02.png"></td>
+    <td class="help"><img height="15%" src="assets/index-52b6ff02.png"></td>
   </tr>
+
+  <tr>
+    <td class="step-num">3</td>
+    <td class="description"> Tap the two sliders agreeing with the End User License Agreement and attesting you are 13 years old or older.</td>
+    <td class="help"><img height="15%" src=""></td>
+  </tr>
+
+  <tr>
+    <td class="step-num">4</td>
+    <td class="description">Enter your mobile phone number. (NameTaggle will send you a test Message)</td>
+    <td class="help"><img height="15%" src=""></td>
+  </tr>
+
+  <tr>
+    <td class="step-num">5</td>
+    <td class="description">Enter First, Last Name and your email address. Then tap the "NEXT" button.</td>
+    <td class="help"><img height="15%" src=""></td>
+  </tr>
+
+
+  <tr>
+    <td class="step-num">6</td>
+    <td class="description"></td>
+    <td class="help"><img height="15%" src=""></td>
+  </tr>
+
   <tr>
     <td class="step-num">#</td>
     <td class="description"></td>
-    <td class="help"><img height="25%" width="25%" src=""></td>
+    <td class="help"><img height="15%" src=""></td>
   </tr>
+
 </table>
 
 <br>
