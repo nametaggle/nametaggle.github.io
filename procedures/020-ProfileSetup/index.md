@@ -56,13 +56,14 @@ Follow these steps to setup your individual profile in NameTaggle:
   </tr>
 
   <tr>
-    <td class="step-num">#</td>
-    <td class="description">_
+    <td class="step-num">3</td>
+    <td class="description">Tap on the current picture.
       <span class="procedure-hint">
         Hint:
       </span>
     </td>
     <td class="help">
+    <img src="assets/index-ac26342d.png">
     </td>
   </tr>
 
