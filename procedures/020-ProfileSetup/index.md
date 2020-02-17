@@ -74,7 +74,7 @@ Follow these steps to setup your individual profile in NameTaggle:
       <li>Camera - Take a new selfie.</li>
       <li>Gallery - Select a previous photo from your photo collection.</li>
       <li>Other Files - Other locations like cloud storage.</li>
-    </ul
+    </ul>
       <span class="procedure-hint">
         Hint:
       </span>
