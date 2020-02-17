@@ -30,7 +30,10 @@ Follow these steps to install and sign up with NameTaggle:
   </tr>
   <tr>
     <td class="step-num">1</td>
-    <td class="description">Download and install the app for your phone. </td>
+    <td class="description">Download and install the app for your phone.
+    <span class="procedure-hint">
+    Hint: You can tap the logo's in the help section to go to NameTaggle in the store.</span>
+    </td>
     <td class="help">
       <a href="https://apps.apple.com/us/app/nametaggle/id1479297455"><img src="/assets/download-app-store.png"></a>
       <br>
