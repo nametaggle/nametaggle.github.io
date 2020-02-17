@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Signup and Install
+title: Install & Signup
 # permalink: /procedures/010-NewUserSignup/
 ---
 
@@ -96,7 +96,8 @@ Follow these steps to install and sign up with NameTaggle:
 
   <tr>
     <td class="step-num">8</td>
-    <td class="description"> Scroll until you find your organization and tap the logo.
+    <td class="description">NameTaggle will take you to a list of organizations. Scroll until you find your organization and tap the logo.
+    <br>
     <span class="procedure-hint">
       Hint: You can tap the magnifying glass in the top right corner to search by name.
       </span>
@@ -117,7 +118,8 @@ Follow these steps to install and sign up with NameTaggle:
 
   <tr>
     <td class="step-num">10</td>
-    <td class="description"> Enter your organization's join code.
+    <td class="description"> Enter your organization's join code (A) then tap the "OK" button (B).
+    <br>
     <span class="procedure-hint">
       Hint: You probably received this with the NameTaggle invitation/announcement.
       </span>
@@ -129,7 +131,14 @@ Follow these steps to install and sign up with NameTaggle:
     <td class="help"><img src="assets/index-e4a0ef36.png"></td>
   </tr>
 
+  <tr>
+    <td class="step-num">11</td>
+    <td class="description"> END OF PROCEDURE - Congratulations! you've completed the install and signup for NameTaggle.  You should see your dashboard screen if your join code was correct. You're now ready to setup your profile.
+    <br>
 
+    </td>
+    <td class="help"><img src="assets/index-c1abbefe.png"></td>
+  </tr>
 
 </table>
 
@@ -139,5 +148,5 @@ You may also be interested in:
 <ul class="release-bullets">
 <li>The <a class="" href="/about/">story</a> of NameTaggle</li>
 <li>Setting up a family in NameTaggle</li>
-<li>Joining Groups in nameTaggle</li>
+<li>Joining Groups in NameTaggle</li>
 </ul>
