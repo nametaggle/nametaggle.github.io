@@ -17,7 +17,7 @@ To get started, install the mobile phone application from your platform's app st
 
 <br>
 <h1 class="perm-marker">Second...</h1>
-<a href="/procedures/010-NewUserSignup/">Signup</a> and <a href="/procedures/020-ProfileSetup" >Setup</a> your account.  It usually takes 3-5 minutes. If you already have your Organization's <em>join code</em>, you probably have everything you need.  The setup process is intuitive for many people, but if you need help, there are <a href="/procedures/010-NewUserSignup/">step-by-step sign-up instructions</a> to guide you through the process. Very soon you'll be able to watch a tutorial video.  
+<a href="/procedures/010-NewUserSignup/">Signup</a> and <a href="/procedures/020-ProfileSetup" >Setup</a> your account.  It usually takes 3-5 minutes. If you already have your organization's <em>join code</em>, you probably have everything you need.  The setup process is intuitive for many people, but if you need help, there are <a href="/procedures/010-NewUserSignup/">step-by-step sign-up instructions</a> to guide you through the process. Very soon you'll be able to watch a tutorial video.  
 
 <br>
 <h1 class="perm-marker">And then...</h1>
