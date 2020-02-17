@@ -47,7 +47,7 @@ Follow these steps to setup your individual profile in NameTaggle:
 You may also be interested in:
 <ul class="release-bullets">
 <li>The <a class="" href="/about/">story</a> of NameTaggle</li>
-<li><a href="/procedures/010-NewUserSignup">Install and Signup</a> for NameTaggle procedure</li>
-<li>Setting up a family in NameTaggle</li>
-<li>Joining Groups in NameTaggle</li>
+<li><a href="/procedures/010-NewUserSignup">Install and Signup</a> for NameTaggle Procedure</li>
+<li>Setting up a family in NameTaggle Procedure</li>
+<li>Joining a Group in NameTaggle Procedure</li>
 </ul>

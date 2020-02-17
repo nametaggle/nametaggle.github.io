@@ -21,4 +21,4 @@ Setup your account.  It usually takes 3-5 minutes. If you already have your Orga
 
 <br>
 <h1 class="perm-marker">And then...</h1>
-You're ready to enjoy NameTaggle - the work is behind you!  You can view the rest of your organization's individuals and groups by tapping the hamburger menu <img src="/assets/hamburger.png">in the upper left corner of the application.
+You're ready to enjoy NameTaggle - the work is behind you!  You can view the rest of your organization's individuals and groups by tapping the hamburger menu (<img src="/assets/hamburger.png" height="3em">) in the upper left corner of the application.
