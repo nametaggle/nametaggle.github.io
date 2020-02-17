@@ -21,7 +21,7 @@ Before you begin make sure you have:
   <tr>
     <th>Step</th>
     <th>Description</th>
-    <th> Help></th>
+    <th>Help</th>
   </tr>
   <tr>
     <td>1</td>
