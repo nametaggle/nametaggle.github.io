@@ -29,6 +29,79 @@ Follow these steps to setup your individual profile in NameTaggle:
   </tr>
 
   <tr>
+    <td class="step-num">1</td>
+    <td class="description">From your dashboard, tap on your profile picture.
+    <br>
+    <span class="procedure-hint">
+      Hint: After you signup, your profile picture says "WAITING FOR PICTURE".
+    </span>
+    <br>
+      <span class="procedure-hint">
+        Hint: You can always return to your dashboard by tapping on the hamburger menu (<img src="/assets/hamburger.png" height="14px">) in the upper left of the application and then the first menu option "Dashboard".
+      </span>
+    </td>
+    <td class="help">
+    <img src="assets/index-3c5014c0.png">
+    </td>
+  </tr>
+
+  <tr>
+    <td class="step-num">#</td>
+    <td class="description">_
+      <span class="procedure-hint">
+        Hint:
+      </span>
+    </td>
+    <td class="help">
+    </td>
+
+  </tr>
+
+  <tr>
+    <td class="step-num">#</td>
+    <td class="description">_
+      <span class="procedure-hint">
+        Hint:
+      </span>
+    </td>
+    <td class="help">
+    </td>
+  </tr>
+
+  <tr>
+    <td class="step-num">#</td>
+    <td class="description">_
+      <span class="procedure-hint">
+        Hint:
+      </span>
+    </td>
+    <td class="help">
+    </td>
+  </tr>
+
+  <tr>
+    <td class="step-num">#</td>
+    <td class="description">_
+      <span class="procedure-hint">
+        Hint:
+      </span>
+    </td>
+    <td class="help">
+    </td>
+  </tr>
+
+  <tr>
+    <td class="step-num">#</td>
+    <td class="description">_
+      <span class="procedure-hint">
+        Hint:
+      </span>
+    </td>
+    <td class="help">
+    </td>
+  </tr>
+
+  <tr>
     <td class="step-num">#</td>
     <td class="description">_
       <span class="procedure-hint">
