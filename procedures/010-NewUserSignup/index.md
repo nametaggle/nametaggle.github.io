@@ -38,7 +38,7 @@ Before you begin make sure you have:
   <tr>
     <td>2</td>
     <td>Open the app and tap the "NEW USER SIGNUP" BUTTON</td>
-    <td>![](assets/index-52b6ff02.png)</td>
+    <td><img src="assets/index-52b6ff02.png"></td>
   </tr>
 </table>
 
