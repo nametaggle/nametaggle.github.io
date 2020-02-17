@@ -18,24 +18,25 @@ Before you begin make sure you have:
 
 ##### How do I Install & Signup for NameTaggle
 <table>
-<tr>
-  <th>Step</th>
-  <th>Description</th>
-  <th> Help></th>
-</tr>
-<tr>
-  <td>1</td>
-  <td>Download and install the app for your phone. </td>
-  <td>
-    <a href="https://apps.apple.com/us/app/nametaggle/id1479297455"><img src ="/assets/download-app-store.png"></a>
-    <br>
-    <a href="https://play.google.com/store/apps/details?id=com.nametaggle.nametaggle&hl=en_US"><img src ="/assets/download-google-play.png"></a>
-  </td>
-</tr>
-<tr>
-  <td>2</td>
-  <td>Open the app and tap the "NEW USER SIGNUP" BUTTON</td>
-  <td></td>
+  <tr>
+    <th>Step</th>
+    <th>Description</th>
+    <th> Help></th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Download and install the app for your phone. </td>
+    <td>
+      <a href="https://apps.apple.com/us/app/nametaggle/id1479297455"><img src ="/assets/download-app-store.png"></a>
+      <br>
+      <a href="https://play.google.com/store/apps/details?id=com.nametaggle.nametaggle&hl=en_US"><img src ="/assets/download-google-play.png"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Open the app and tap the "NEW USER SIGNUP" BUTTON</td>
+    <td></td>
+  </tr>
 </table>
 
 
