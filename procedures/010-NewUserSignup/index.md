@@ -45,19 +45,26 @@ Follow these steps to install and sign up with NameTaggle:
 
   <tr>
     <td class="step-num">3</td>
-    <td class="description"> Tap the two sliders if you agree with the End User License Agreement and attest you are 13 years old or older.</td>
-    <td class="help"><img height="15%" src="assets/index-afa40d10.png"></td>
+    <td class="description"> Tap the two sliders if you agree with the End User License Agreement (A) and attest you are 13 years old or older (B).</td>
+    <td class="help"><img src="assets/index-afa40d10.png"></td>
   </tr>
 
   <tr>
     <td class="step-num">4</td>
-    <td class="description">Enter your mobile phone number and tap Next. (NameTaggle will send you a test Message.)</td>
-    <td class="help"><img height="15%" src="assets/index-cdff2edb.png"></td>
+    <td class="description">Enter your mobile phone number(A) and tap "NEXT"(B). (NameTaggle will send you a test Message.)</td>
+    <td class="help"><img  src="assets/index-cdff2edb.png"></td>
   </tr>
 
   <tr>
     <td class="step-num">5</td>
-    <td class="description">Enter First Name, Last Name, and email address. Then tap the "NEXT". button.</td>
+    <td class="description">Enter the 6 digit code from the Text Message NameTaggle just sent(A) and tap "NEXT"(B). <br>
+    Hint: If you typed the wrong phone number, you can go back to the previous step by tapping the "1" Circle, re-enter your number and a "RESEND" button will appear</td>
+    <td class="help"><img  src="assets/index-4f3e7a2f.png"></td>
+  </tr>
+
+  <tr>
+    <td class="step-num">5</td>
+    <td class="description">Enter First Name (A), Last Name (B), and email address (C). Then tap the "NEXT" button (D).</td>
     <td class="help"><img height="15%" src=""></td>
   </tr>
 
