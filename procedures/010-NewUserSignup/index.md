@@ -4,7 +4,7 @@ title: Signup and Install
 # permalink: /procedures/010-NewUserSignup/
 ---
 
-<h1 class="perm-marker">Install & Signup</h1>
+<h1 class="perm-marker">Install & Signup A</h1>
 
 <br>
 ##### Who should use this procedure?
