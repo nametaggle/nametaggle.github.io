@@ -31,15 +31,15 @@ Before you begin make sure you have:
     <td class="step-num">1</td>
     <td class="description">Download and install the app for your phone. </td>
     <td class="help">
-      <a href="https://apps.apple.com/us/app/nametaggle/id1479297455"><img src ="/assets/download-app-store.png"></a>
+      <a href="https://apps.apple.com/us/app/nametaggle/id1479297455"><img src="/assets/download-app-store.png"></a>
       <br>
-      <a href="https://play.google.com/store/apps/details?id=com.nametaggle.nametaggle&hl=en_US"><img src ="/assets/download-google-play.png"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.nametaggle.nametaggle&hl=en_US"><img src="/assets/download-google-play.png"></a>
     </td>
   </tr>
   <tr>
     <td class="step-num">2</td>
     <td class="description">Open the app and tap the "NEW USER SIGN UP" button.</td>
-    <td class="help"><img  src="assets/index-52b6ff02.png"></td>
+    <td class="help"><img src="assets/index-52b6ff02.png"></td>
   </tr>
 
   <tr>
