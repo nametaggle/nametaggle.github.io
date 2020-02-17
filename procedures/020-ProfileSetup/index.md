@@ -4,7 +4,7 @@ title: Individual Profile Setup
 # permalink: /procedures/010-NewUserSignup/
 ---
 
-<h1 class="perm-marker">Individual Profile Setup A</h1>
+<h1 class="perm-marker">Individual Profile Setup B</h1>
 
 <br>
 ##### Who should use this procedure?
