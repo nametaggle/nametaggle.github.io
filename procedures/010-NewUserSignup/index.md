@@ -16,6 +16,7 @@ Before you begin make sure you have:
 <ul class="release-bullets">
 <li> Your smart phone (NameTaggle will send you a verification text message).</li>
 <li> A picture of yourself (You can crop a larger picture or take one with your phone camera during setup.)</li>
+<li>The "Join Code" from the organization you intend to connect with.</li>
 </ul>
 
 <br>
@@ -28,17 +29,17 @@ Before you begin make sure you have:
   </tr>
   <tr>
     <td class="step-num">1</td>
-    <td>Download and install the app for your phone. </td>
-    <td>
+    <td class="description">Download and install the app for your phone. </td>
+    <td class="help">
       <a href="https://apps.apple.com/us/app/nametaggle/id1479297455"><img height="50%" width="50%" src ="/assets/download-app-store.png"></a>
       <br>
       <a href="https://play.google.com/store/apps/details?id=com.nametaggle.nametaggle&hl=en_US"><img  height="50%" width="50%" src ="/assets/download-google-play.png"></a>
     </td>
   </tr>
   <tr>
-    <td>2</td>
-    <td>Open the app and tap the "NEW USER SIGNUP" BUTTON</td>
-    <td><img src="assets/index-52b6ff02.png"></td>
+    <td class="step-num">2</td>
+    <td class="description">Open the app and tap the "NEW USER SIGNUP" BUTTON</td>
+    <td class="help"><img src="assets/index-52b6ff02.png"></td>
   </tr>
 </table>
 
