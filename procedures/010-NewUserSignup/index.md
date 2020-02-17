@@ -17,7 +17,7 @@ Before you begin make sure you have:
 </ul>
 
 ##### How do I Install & Signup for NameTaggle
-<table>
+<table class="procedure-table">
   <tr>
     <th>Step</th>
     <th>Description</th>
