@@ -46,15 +46,13 @@ Follow these steps to setup your individual profile in NameTaggle:
   </tr>
 
   <tr>
-    <td class="step-num">#</td>
-    <td class="description">_
-      <span class="procedure-hint">
-        Hint:
-      </span>
+    <td class="step-num">2</td>
+    <td class="description"> Tap on the "EDIT" button (pencil icon).
+
     </td>
     <td class="help">
+    <img src="assets/index-b157b04b.png">
     </td>
-
   </tr>
 
   <tr>
