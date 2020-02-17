@@ -19,7 +19,7 @@ Before you begin make sure you have:
 </ul>
 
 <br>
-##### How do I Install & Signup for NameTaggle
+##### How do I Install & Signup for NameTaggle?
 <table class="procedure-table">
   <tr>
     <th>Step</th>
