@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Signup and Install
-permalink: /procedures/010-Signup/
+permalink: /procedures/010-NewUserSignup/
 ---
 
 <h1 class="perm-marker">Install & Signup</h1>
