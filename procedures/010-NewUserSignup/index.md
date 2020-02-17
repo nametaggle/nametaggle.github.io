@@ -45,7 +45,7 @@ Before you begin make sure you have:
 
 <br>
 ##### Additional Resources
-You may also be interested in
+You may also be interested in:
 <ul class="release-bullets">
 <li>The <a class="" href="/about/">story</a> of NameTaggle</li>
 <li>Setting up a family in NameTaggle</li>
