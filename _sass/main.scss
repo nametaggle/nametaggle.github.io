@@ -88,12 +88,15 @@ table.procedure-table {
 
 .procedure-table td.step-num{
     text-align: right;
+    width: 15%;
 }
 
 .procedure-table td.description{
   vertical-align: text-top;
+  width: 60%;
 }
 
 .procedure-table td.help{
   text-align: center;
+  width: 25%;
 }
