@@ -68,13 +68,19 @@ Follow these steps to setup your individual profile in NameTaggle:
   </tr>
 
   <tr>
-    <td class="step-num">#</td>
-    <td class="description">_
+    <td class="step-num">4</td>
+    <td class="description">NameTaggle will present a popup. choose one:
+    <ul>
+      <li>Camera - Take a new selfie.</li>
+      <li>Gallery - Select a previous photo from your photo collection.</li>
+      <li>Other Files - Other locations like cloud storage.</li>
+    </ul
       <span class="procedure-hint">
         Hint:
       </span>
     </td>
     <td class="help">
+    <img src="assets/index-cfd766f6.png">
     </td>
   </tr>
 
