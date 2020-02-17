@@ -27,7 +27,7 @@ Before you begin make sure you have:
     <th>Help</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td class="step-num">1</td>
     <td>Download and install the app for your phone. </td>
     <td>
       <a href="https://apps.apple.com/us/app/nametaggle/id1479297455"><img height="50%" width="50%" src ="/assets/download-app-store.png"></a>

@@ -84,4 +84,8 @@ table.procedure-table {
 
 .procedure-table td{
     border: 1px solid black;
-  }
+}
+
+.procedure-table td.step-num{
+    text-align: right;
+}
