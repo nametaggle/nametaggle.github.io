@@ -44,26 +44,26 @@ Before you begin make sure you have:
 
   <tr>
     <td class="step-num">3</td>
-    <td class="description"> Tap the two sliders agreeing with the End User License Agreement and attesting you are 13 years old or older.</td>
-    <td class="help"><img height="15%" src=""></td>
+    <td class="description"> Tap the two sliders if you agree with the End User License Agreement and attesting you are 13 years old or older.</td>
+    <td class="help"><img height="15%" src="assets/index-afa40d10.png"></td>
   </tr>
 
   <tr>
     <td class="step-num">4</td>
-    <td class="description">Enter your mobile phone number. (NameTaggle will send you a test Message)</td>
-    <td class="help"><img height="15%" src=""></td>
+    <td class="description">Enter your mobile phone number and tap Next. (NameTaggle will send you a test Message.)</td>
+    <td class="help"><img height="15%" src="assets/index-cdff2edb.png"></td>
   </tr>
 
   <tr>
     <td class="step-num">5</td>
-    <td class="description">Enter First, Last Name and your email address. Then tap the "NEXT" button.</td>
+    <td class="description">Enter First Name, Last Name, and email address. Then tap the "NEXT". button.</td>
     <td class="help"><img height="15%" src=""></td>
   </tr>
 
 
   <tr>
     <td class="step-num">6</td>
-    <td class="description"></td>
+    <td class="description">Enter your password (twice).</td>
     <td class="help"><img height="15%" src=""></td>
   </tr>
 
