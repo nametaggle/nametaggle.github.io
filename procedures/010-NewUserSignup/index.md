@@ -74,7 +74,8 @@ Follow these steps to install and sign up with NameTaggle:
     <td class="step-num">5</td>
     <td class="description">Enter First Name (A), Last Name (B), and email address (C). Then tap the "NEXT" button (D).
     <span class="procedure-hint">
-    Hint: You cannot reuse this email with a different account</span>
+      Hint: You cannot reuse this email with a different account
+    </span>
 
     </td>
     <td class="help"><img src="assets/index-26ec192a.png"></td>
@@ -83,12 +84,43 @@ Follow these steps to install and sign up with NameTaggle:
 
   <tr>
     <td class="step-num">6</td>
-    <td class="description">Enter your password (twice A,B) and tap "CREATE" (C).</td>
-    <td class="help"><img  src="assets/index-6f424b7f.png"></td>
+    <td class="description">Enter your password (twice A,B) and tap "CREATE" (C).
+
+    <br>
+      <span class="procedure-hint">
+        Hint: NameTaggle will let you correct any errors and try again.
+      </span>
+    </td>
+    <td class="help"><img  src="assets/index-ce61e0a0.png"></td>
+  </tr>
+
+  <tr>
+    <td class="step-num">8</td>
+    <td class="description"> Scroll until you find your organization and tap the logo.
+    <span class="procedure-hint">
+      Hint: You can tap the magnifying glass in the top right corner to search throughout the application.
+      </span>
+
+    </td>
+    <td class="help"><img height="15%" src=""></td>
   </tr>
 
   <tr>
     <td class="step-num">7</td>
+    <td class="description"> Enter your organization's join code.
+    <span class="procedure-hint">
+      Hint: You probably received this with the NameTaggle invitation/announcement.
+      </span>
+      <br>
+    <span class="procedure-hint">
+      Hint: NameTaggle will let you correct any errors and try again.
+    </span>
+    </td>
+    <td class="help"><img height="15%" src=""></td>
+  </tr>
+
+  <tr>
+    <td class="step-num">8</td>
     <td class="description"> Enter your organization's join code.
     Hint: You probably received this with the NameTaggle invitation/announcement.
     Hint: NameTaggle will let you correct any errors and try again.
