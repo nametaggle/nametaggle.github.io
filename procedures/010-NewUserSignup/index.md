@@ -8,19 +8,20 @@ title: Signup and Install
 
 <br>
 ##### Who should use this procedure?
-New users that would like step-by-step instructions to install and setup NameTaggle.
+New users who would like step-by-step instructions to install and setup NameTaggle.
 
 <br>
 ##### What should I have ready before I start?
 Before you begin make sure you have:
 <ul class="release-bullets">
 <li> Your smart phone (NameTaggle will send you a verification text message).</li>
-<li> A picture of yourself (You can crop a larger picture or take one with your phone camera during setup.)</li>
+<li> A picture of yourself (You can crop a digital picture from your phone or take a selfie during setup.)</li>
 <li>The "Join Code" from the organization you intend to connect with.</li>
 </ul>
 
 <br>
-##### How do I Install & Signup for NameTaggle?
+##### How do I Install & Sign Up for NameTaggle?
+Follow these steps to install and sign up with NameTaggle:
 <table class="procedure-table">
   <tr>
     <th>Step</th>
@@ -44,7 +45,7 @@ Before you begin make sure you have:
 
   <tr>
     <td class="step-num">3</td>
-    <td class="description"> Tap the two sliders if you agree with the End User License Agreement and attesting you are 13 years old or older.</td>
+    <td class="description"> Tap the two sliders if you agree with the End User License Agreement and attest you are 13 years old or older.</td>
     <td class="help"><img height="15%" src="assets/index-afa40d10.png"></td>
   </tr>
 

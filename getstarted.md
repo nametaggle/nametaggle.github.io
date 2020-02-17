@@ -5,8 +5,8 @@ permalink: /getstarted
 path: getstarted.html
 ---
 
-
-To get started, go to your platform's app store on your mobile device:
+<h1>First</h1>
+To get started, install the mobile phone application from your platform's app store:
 
 <table>
 <tr>
@@ -15,4 +15,7 @@ To get started, go to your platform's app store on your mobile device:
 </tr>
 </table>
 
-All you'll need is an Organization's Join Code, which you can get from an administrator of that organization. Then create your own profile and have a look around!
+<h1>Second</h1>
+Setup your account.  It usually takes 3-5 minutes. If you already have your Organization's Join Code, you probably have everything you need.  If you need help, there are <a href="/procedures/010-NewUserSignup/">step-by-step instructions</a> to guide you through the process or you can watch a tutorial video.
+
+Get from an administrator of that organization. Then create your own profile and have a look around!
