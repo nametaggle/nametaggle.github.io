@@ -34,8 +34,9 @@ Before you begin make sure you have:
 </tr>
 <tr>
   <td>2</td>
+  <td>Open the app and tap the "NEW USER SIGNUP" BUTTON</td>
   <td></td>
-
+</table>
 
 
 ##### Additional Resources
