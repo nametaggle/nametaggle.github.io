@@ -58,7 +58,8 @@ Follow these steps to install and sign up with NameTaggle:
   <tr>
     <td class="step-num">5</td>
     <td class="description">Enter the 6 digit code from the text message NameTaggle Just sent(A) and tap "NEXT"(B). <br>
-    Hint: If you typed the wrong phone number, you can go back to the previous step by tapping the "1" circle, re-enter your number and a "RESEND" button will appear.</td>
+    <span class="procedure-hint">
+    Hint: If you typed the wrong phone number, you can go back to the previous step by tapping the "1" circle, re-enter your number and a "RESEND" button will appear. </span></td>
     <td class="help"><img  src="assets/index-4f3e7a2f.png"></td>
   </tr>
 
