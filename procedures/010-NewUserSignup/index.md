@@ -64,13 +64,16 @@ Follow these steps to install and sign up with NameTaggle:
 
   <tr>
     <td class="step-num">6</td>
-    <td class="description">Enter your password (twice).</td>
+    <td class="description">Enter your password (twice) and tap "NEXT".</td>
     <td class="help"><img height="15%" src=""></td>
   </tr>
 
   <tr>
-    <td class="step-num">#</td>
-    <td class="description"></td>
+    <td class="step-num">7</td>
+    <td class="description"> Enter your organization's join code.
+    Hint: You probably received this with the NameTaggle invitation/announcement.
+    Hint: NameTaggle will let you correct any errors and try again.
+    </td>
     <td class="help"><img height="15%" src=""></td>
   </tr>
 
