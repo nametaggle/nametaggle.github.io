@@ -17,8 +17,8 @@ To get started, install the mobile phone application from your platform's app st
 
 <br>
 <h1 class="perm-marker">Second...</h1>
-Setup your account.  It usually takes 3-5 minutes. If you already have your Organization's Join Code, you probably have everything you need.  If you need help, there are <a href="/procedures/010-NewUserSignup/">step-by-step instructions</a> to guide you through the process or you can watch a tutorial video (coming soon).
+Setup your account.  It usually takes 3-5 minutes. If you already have your Organization's Join Code, you probably have everything you need.  The setup process is intuitive for many people, but if you need help, there are <a href="/procedures/010-NewUserSignup/">step-by-step sign-up instructions</a> to guide you through the process. Very soon you'll be able to watch a tutorial video.  
 
 <br>
 <h1 class="perm-marker">And then...</h1>
-You're ready to enjoy NameTaggle.  You can add a family picture, join groups and checkout everyone else's NameTaggle profile!
+You're ready to enjoy NameTaggle - the work is behind you!  You can view the rest of your organization's individuals and groups by tapping the hamburger menu <img src="./assets/remember.svg" height="1em">in the upper left corner of the application.

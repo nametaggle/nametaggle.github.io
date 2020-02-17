@@ -14,7 +14,7 @@ Users who have completed installation/signup and would like step-by-step instruc
 ##### What should I have ready before I start?
 Before you begin make sure you have:
 <ul class="release-bullets">
-<li> Your smart phone</li>
+<li> Your smart phone with <a href="/procedures/010-NewUserSignup">NameTaggle installed and signed into your account</a>.</li>
 <li> A picture of yourself (You can crop a digital picture from your phone or take a selfie during setup.)</li>
 </ul>
 
@@ -47,7 +47,7 @@ Follow these steps to setup your individual profile in NameTaggle:
 You may also be interested in:
 <ul class="release-bullets">
 <li>The <a class="" href="/about/">story</a> of NameTaggle</li>
-<li>Setting up your profile in NameTaggle</li>
+<li><a href="/procedures/010-NewUserSignup">Install and Signup</a> for NameTaggle procedure</li>
 <li>Setting up a family in NameTaggle</li>
 <li>Joining Groups in NameTaggle</li>
 </ul>

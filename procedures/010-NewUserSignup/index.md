@@ -145,8 +145,8 @@ Follow these steps to install and sign up with NameTaggle:
 ##### Additional Resources
 You may also be interested in:
 <ul class="release-bullets">
-<li>The <a class="" href="/about/">story</a> of NameTaggle</li>
-<li>Setting up your profile in NameTaggle</li>
+<li>The <a href="/about/">story</a> of NameTaggle</li>
+<li><a href="/procedures/020-ProfileSetup/">Setting up your profile</a> in NameTaggle</li>
 <li>Setting up a family in NameTaggle</li>
 <li>Joining Groups in NameTaggle</li>
 </ul>
