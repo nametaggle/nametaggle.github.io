@@ -5,8 +5,8 @@ permalink: /getstarted
 path: getstarted.html
 ---
 
-
-To get started, go to your platform's app store on your mobile device:
+<h1 class="perm-marker">First...</h1>
+To get started, install the mobile phone application from your platform's app store:
 
 <table>
 <tr>
@@ -15,4 +15,10 @@ To get started, go to your platform's app store on your mobile device:
 </tr>
 </table>
 
-All you'll need is an Organization's Join Code, which you can get from an administrator of that organization. Then create your own profile and have a look around!
+<br>
+<h1 class="perm-marker">Second...</h1>
+<a href="/procedures/010-NewUserSignup/">Signup</a> and <a href="/procedures/020-ProfileSetup" >Setup</a> your account.  It usually takes 3-5 minutes. If you already have your organization's <em>join code</em>, you probably have everything you need.  The setup process is intuitive for many people, but if you need help, there are <a href="/procedures/010-NewUserSignup/">step-by-step sign-up instructions</a> to guide you through the process. Very soon you'll be able to watch a tutorial video.  
+
+<br>
+<h1 class="perm-marker">And then...</h1>
+You're ready to enjoy NameTaggle - the work is behind you!  You can view the rest of your organization's individuals and groups by tapping the hamburger menu (<img src="/assets/hamburger.png" height="14px">) in the upper left corner of the application.

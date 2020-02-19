@@ -21,6 +21,7 @@ h1.page-title {
     text-align: center;
     color: #29b6f6;
 }
+
 .col.grid-example {
     border: 1px solid #eee;
     margin: 7px 0;
@@ -67,4 +68,46 @@ p.rss-subscribe {
 }
 .perm-marker {
   font-family: "Permanent Marker" !important;
+}
+
+table.procedure-table {
+  border: 1px solid black;
+  border-collapse: separate;
+}
+
+.procedure-table th{
+  border: 1px solid white;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.procedure-table td{
+  border: 1px solid black;
+}
+
+.procedure-table td.step-num{
+  vertical-align: text-top;
+  text-align: right;
+  width: 5%;
+}
+
+.procedure-table td.description{
+  vertical-align: text-top;
+  width: 65%;
+}
+
+.procedure-table td.help{
+  text-align: center;
+  width: 30%;
+}
+
+.procedure-table td.help img {
+    max-width: 100%;
+    height: auto;
+}
+
+.procedure-table span.procedure-hint {
+  font-style: italic;
 }
