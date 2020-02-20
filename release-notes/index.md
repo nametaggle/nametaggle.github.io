@@ -1,12 +1,33 @@
 ### Release Notes
 
+#### 0.1.3 (Build 41)
+*Scheduled February 21, 2020*
+
+##### What's New?
+<ul class="release-bullets">
+<li>We've improved usability for Apple Users.  It's not always intuitive to backswipe to return to a previous screen.  Apple users will now see a back arrow in bottom left corner of the screen.</li>
+<li>Tapping on the Support URL in the Dialog will now lauch you into a web browser to review our online help.</li>
+<li>Sticky Notes should look nicer when you view them from the sticky note search screen.</li>
+</ul>
+
+##### Bug Fixes?
+<ul class="release-bullets">
+<li>Apple users should be able to upload pictures from other cloud locations again. </li>
+<li>Clickable links in user notifications should work correctly.</li>
+<li>Passwords on the Login screen and new user data on the signup screen will only clear after a successful login or user creation.  This will give you a better chance to review the problem.</li>
+<li>The list of organizations you belong to will now be in alphabetic order.</li>
+<li>Printable Directory Delete and Cancel buttons moved to the 3-dot/more menu.</li>
+<li>Activity Group descriptions now allow for multi-line content.</li>
+</ul>
+<hr>
+
 
 #### 0.1.2 (Build 39)
 *February 14, 2020*
 
 ##### What's New?
 <ul class="release-bullets">
-<li>We improved our color scheme control.  Organization Administrators can now select any color for their organization's color schme</li>
+<li>We improved our color scheme control.  Organization Administrators can now select any color for their organization's color scheme</li>
 <li>Groups with closed membership (i.e. the group owner manages the member list) now provide a hint in the "more actions" menu (three vertical dots) when the group is closed.</li>
 </ul>
 
