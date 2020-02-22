@@ -17,5 +17,5 @@ email: brandon (at) deconsec (dot) com
 ## Step-by-Step Procedures
 <ul>
 <li><a href="/procedures/010-NewUserSignup">Install NameTaggle</a></li>
-<li><a href="/procedures/020-PRofileSetup">Sign Up For NameTaggle</a></li>
+<li><a href="/procedures/020-ProfileSetup">Sign Up For NameTaggle</a></li>
 </ul>
