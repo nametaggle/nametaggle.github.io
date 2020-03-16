@@ -5,15 +5,21 @@ permalink: /getstarted
 path: getstarted.html
 ---
 
+
 <h1 class="perm-marker">First...</h1>
 To get started, install the mobile phone application from your platform's app store:
-
-<table>
-<tr>
-<td><a href="https://apps.apple.com/us/app/nametaggle/id1479297455"><img src ="./assets/download-app-store.png"></a></td>
-<td><a href="https://play.google.com/store/apps/details?id=com.nametaggle.nametaggle&hl=en_US"><img src ="./assets/download-google-play.png"></a></td>
-</tr>
-</table>
+<div class="row">
+  <div class="col s12 m4">
+    <div class="icon-block">
+      <a href="https://apps.apple.com/us/app/nametaggle/id1479297455"><img src ="./assets/download-app-store.png"></a>
+    </div>
+  </div>
+  <div class="col s12 m4">
+    <div class="icon-block">
+      <a href="https://play.google.com/store/apps/details?id=com.nametaggle.nametaggle&hl=en_US"><img src ="./assets/download-google-play.png"></a>
+    </div>
+  </div>
+</div>
 
 <br>
 <h1 class="perm-marker">Second...</h1>
