@@ -15,7 +15,7 @@ New users who would like step-by-step instructions to install and setup NameTagg
 Before you begin make sure you have:
 <ul class="release-bullets">
 <li> Your smart phone (NameTaggle will send you a verification text message.)</li>
-<li>The "Join Code" from the organization you're joing</li>
+<li>The "Join Code" from the organization you're joining</li>
 </ul>
 
 <br>
