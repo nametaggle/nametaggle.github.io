@@ -5,13 +5,13 @@ permalink: /privacypolicy/
 ---
 
 # MOBILE APP PRIVACY POLICY
-Last updated October 21, 2019
+Last updated March 26, 2020
 
 Deconstructed Security, LLC (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”).   Please read this Privacy Policy carefully.  IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason.  We will alert you about any changes by updating the “Last updated” date of this Privacy Policy.  You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.
 
-This Privacy Policy does not apply to the third-party online/mobile store from which you install the Application or make payments, including any in-game virtual items, which may also collect and use data about you.  We are not responsible for any of the data collected by any such third party.
+This Privacy Policy does not apply to the third-party online/mobile store from which you install the Application or make payments, including any in-app virtual items, which may also collect and use data about you.  We are not responsible for any of the data collected by any such third party.
 
 
 ## COLLECTION OF YOUR INFORMATION
@@ -24,7 +24,7 @@ Demographic and other personally identifiable information (such as your name and
 
 ### Derivative Data
 
-Information our servers automatically collect when you access the Application, such as your native actions that are integral to the Application, including liking, re-blogging, or replying to a post, as well as other interactions with the Application and other users via server log files.
+Information our servers automatically collect when you access the Application, such as your native actions that are integral to the Application, including navigation,  liking, re-blogging, or replying to a post, as well as other interactions with the Application and other users via server log files.
 
 ### Financial Data
 
@@ -32,7 +32,7 @@ Financial information, such as data related to your payment method (e.g. valid c
 
 ### Facebook Permissions
 
-The Application may by default access your Facebook basic account information, including your name, email, gender, birthday, current city, and profile picture URL, as well as other information that you choose to make public. We may also request access to other permissions related to your account, such as friends, checkins, and likes, and you may choose to grant or deny us access to each individual permission. For more information regarding Facebook permissions, refer to the Facebook Permissions Reference page.
+The Application does not access or store your Facebook basic account information.
 
 ### Data from Social Networks
 
@@ -97,11 +97,11 @@ If we believe the release of information about you is necessary to respond to le
 
 ### Third-Party Service Providers
 
-We may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email delivery, hosting services, customer service, and marketing assistance.
+We may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email delivery, hosting services, customer service, authentication, and marketing assistance.
 
 ### Marketing Communications
 
-With your consent, or with an opportunity for you to withdraw consent, we may share your information with third parties for marketing purposes, as permitted by law.
+We do not share share your information with third parties for marketing purposes.
 
 ### Interactions with Other Users
 
@@ -113,7 +113,7 @@ When you post comments, contributions or other content to the Applications, your
 
 ### Third-Party Advertisers
 
-We do not share your information with Third-Party Advertisers.
+We do not share your personal information with Third-Party Advertisers.  If you choose to authenticate with Google (who is also an advertiser) they will receive information required for your authentication.  We also use Google's Firebase Crashlytics to capture application usage and errors.  We do not collect Android Advertising ID or Advertising Identifier for iOS.
 
 ### Affiliates
 
@@ -126,7 +126,7 @@ We do not share your information with our business partners.
 
 ###Social Media Contacts
 
-If you connect to the Application through a social network, your contacts on the social network will see your name, profile photo, and descriptions of your activity.
+We do not collect, use, or share information about your social media contacts.
 
 ### Other Third Parties
 
@@ -146,11 +146,11 @@ We may use cookies, web beacons, tracking pixels, and other tracking technologie
 
 ### Internet-Based Advertising
 
-We do not server advertisements through the application.
+We do not serve advertisements through the application.
 
-### Website Analytics
+### Website/Applicatoin Analytics
 
-We may Anaylze your usage patterns to improve the user experience.  We will not share analytics information with third parties.
+We may Anaylze your usage patterns to improve the user experience.  We use Google Firebase to collect analytics data.
 
 You should be aware that getting a new computer, installing a new browser, upgrading an existing browser, or erasing or otherwise altering your browser’s cookies files may also clear certain opt-out cookies, plug-ins, or settings.
 
