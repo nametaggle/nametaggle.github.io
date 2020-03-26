@@ -127,7 +127,7 @@ Follow these steps to install NameTaggle and sign up with Apple:
   </tr>
 
   <tr>
-    <td class="step-num">11</td>
+    <td class="step-num">7</td>
     <td class="description"> END OF PROCEDURE - Congratulations! you've completed the install of NameTaggle and Signup with Apple.  You should see your dashboard screen if your join code was correct. You're now ready to <a href="/procedures/020-ProfileSetup/">setup your profile</a>.
     <br>
 
