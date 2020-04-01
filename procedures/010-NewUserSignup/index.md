@@ -47,12 +47,19 @@ Follow these steps to install and sign up with NameTaggle:
     Hint: New installs will provide a wizard.  You can sign up with Google, Apple or create an unlinked account from the wizard or the login screen.</span>
 
     <br>
+    <br>
     <span class="procedure-hint">
     Hint: Screens may differ between Android and iPhone.</span>
 
     <br>
+    <br>
     <span class="procedure-hint">
-    Hint: For most Apple users, the best option is to sign-in with Apple.  For most Android users, the best option is sign in with Google.</span>
+    Hint: For most Apple users, the best option is to "Sign-in with Apple".  For most Android users, the best option is sign in with Google.</span>
+
+    <br>
+    <br>
+    <span class="procedure-hint">
+    Hint: If you use "Sign in with Google" or "Sign in with Apple", you'll skip some of these steps.</span>
 
 
     </td>
