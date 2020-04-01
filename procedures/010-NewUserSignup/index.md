@@ -142,11 +142,11 @@ Follow these steps to install and sign up with NameTaggle:
   <tr>
     <td class="step-num">10</td>
     <td class="description"> Enter your organization's join code (A) then tap the "OK" button (B).
-    <br>
+    <br><br>
     <span class="procedure-hint">
       Hint: You probably received this with the NameTaggle invitation/announcement.
-      </span>
-      <br>
+    </span>
+    <br><br>
     <span class="procedure-hint">
       Hint: If something doesn't work, NameTaggle will let you correct any errors and try again.
     </span>
