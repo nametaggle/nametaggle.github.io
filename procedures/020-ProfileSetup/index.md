@@ -31,11 +31,11 @@ Follow these steps to setup your individual profile in NameTaggle:
   <tr>
     <td class="step-num">1</td>
     <td class="description">From your dashboard, tap on your profile picture.
-    <br>
+    <br><br>
     <span class="procedure-hint">
       Hint: After you signup, your profile picture says "WAITING FOR PICTURE".
     </span>
-    <br>
+    <br><br>
       <span class="procedure-hint">
         Hint: You can always return to your dashboard by tapping on the hamburger menu (<img src="/assets/hamburger.png" height="14px">) in the upper left of the application and then the first menu option "Dashboard".
       </span>
@@ -94,6 +94,7 @@ Follow these steps to setup your individual profile in NameTaggle:
   <tr>
     <td class="step-num">6</td>
     <td class="description"> Tap the Save button to see how other people will see your profile.
+      <br><br>
       <span class="procedure-hint">
         Hint: You can continue editing your profile, but don't forget to save your changes.
       </span>
@@ -106,6 +107,7 @@ Follow these steps to setup your individual profile in NameTaggle:
   <tr>
     <td class="step-num">#</td>
     <td class="description">END OF PROCEDURE - Congratulations, you've now set your profile picture.
+      <br><br>
       <span class="procedure-hint">
         Hint: If you'd like to update your address, add a family or adjust other settings. tap the "EDIT" button again to continue editing.
       </span>
