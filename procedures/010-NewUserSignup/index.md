@@ -52,7 +52,7 @@ Follow these steps to install and sign up with NameTaggle:
 
     <br><br>
     <span class="procedure-hint">
-    Hint: For most Apple users, the best option is to "Sign-in with Apple".  For most Android users, the best option is sign in with Google.</span>
+    Hint: For most Apple users, the best option is to "Sign-in with Apple".  For most Android users, the best option is "Sign in with Google".</span>
 
     <br><br>
     <span class="procedure-hint">
