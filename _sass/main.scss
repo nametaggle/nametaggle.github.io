@@ -111,3 +111,30 @@ table.procedure-table {
 .procedure-table span.procedure-hint {
   font-style: italic;
 }
+
+
+
+
+table.feature-table {
+  border-style: none;
+  border-collapse: separate;
+}
+
+.feature-table td{
+  border-style: none;
+}
+
+.feature-table td.description{
+  vertical-align: text-top;
+  width: 60%;
+}
+
+.feature-table td.pic{
+  text-align: center;
+  width: 40%;
+}
+
+.feature-table td.pic img {
+    max-width: 100%;
+    height: auto;
+}
