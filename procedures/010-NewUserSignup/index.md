@@ -43,13 +43,21 @@ Follow these steps to install and sign up with NameTaggle:
     <td class="step-num">2</td>
     <td class="description">Open the app and tap the "NEW USER SIGN UP" button.
 
+    <span class="procedure-hint">
+    Hint: New installs will provide a wizard.  You can sign up with Google, Apple or create an unlinked account from the wizard or the login screen.</span>
+
+    <span class="procedure-hint">
+    Hint: Screens may differ between Android and iPhone.</span>
+
+    <span class="procedure-hint">
+    Hint: For most Apple users, the best option is to sign-in with Apple.  For most Android users, the best option is sign in with Google.</span>
+
 
     </td>
     <td class="help"><img src="assets/NameTaggle-iPhone11-04012020-LoginScreen.png">
     <hr>
     <span class="procedure-hint">
-
-    Hint: New installs will provide a wizard.  You can sign up with Google, Apple or create an unlinked account from the Wizard or the login screen.</span>
+    Hint: New installs will provide a wizard.  You can sign up with Google, Apple or create an unlinked account from the wizard or the login screen.</span>
     <img src="assets/NameTaggle-iPhone11-04012020-FirstLaunch.png">
 
 </td>
