@@ -16,6 +16,7 @@ You create an individual profile with your personal and contact information as w
 </td><td>
 <img src="/images/NameTaggle-iPhone11-04012020-Dashboard.png">
 </td></tr>
+</table>
 
 
 ##### Multiple Organizations
