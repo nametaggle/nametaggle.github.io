@@ -92,10 +92,10 @@ You know that face but you just can't remember the name to go with it. Here's ho
       Users with Administrative privileges can control what features are available to users and user groups in the organization.
     </div>
     <div class="col s6 m2">
-      <img class="responsive-img" src="">
+      <img class="responsive-img" src="/images/NameTaggle-iPhone11-04062020-UserGroupFocus.png">
     </div>
     <div class="col s6 m2">      
-      <img class="responsive-img" src="">
+      <img class="responsive-img" src="/images/NameTaggle-iPhone11-04062020-UserGroupEdit.png">
     </div>
   </div>
 </div>
