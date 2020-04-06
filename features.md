@@ -10,18 +10,35 @@ path: features.html
 You know that face but you just can't remember the name to go with it. Here's how NameTaggle helps:
 
 ##### Individual Profile
+<!--
 <table class="feature-table">
   <tr>
     <td class="description">
+-->
+<div class="col s6 m4">
+
       You create an individual profile with your personal and contact information as well as a picture and optional note. You're always in control of what information is shared with your organization(s) and each type of user within them. If one of your organization's leaders already started a profile for you, you can claim ownership of it and take over from there. <b>At this time we don’t allow individuals younger than 13 to create profiles, but parents can create them for their children.</b>
+
+</div>
+<!--
     </td>
     <td class="pic">
-      <img src="/images/NameTaggle-iPhone11-04012020-IndividualProfileEdit.png">
-      &nbsp;&nbsp;
+    &nbsp;&nbsp;
+-->
+<div class="col s6 m4">
+
+    <img src="/images/NameTaggle-iPhone11-04012020-IndividualProfileEdit.png">
+
+</div>
+
+<div class="col s6 m4">      
       <img src="/images/NameTaggle-iPhone11-04012020-IndividualProfileFocus.png">
+      </div>
+<!--
     </td>
   </tr>
 </table>
+-->
 
 
 ##### Multiple Organizations
