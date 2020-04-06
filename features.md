@@ -15,7 +15,7 @@ You know that face but you just can't remember the name to go with it. Here's ho
   <tr>
     <td class="description">
 -->
-<div class="container">
+
   <div class="section"
 <div class="col s6 m4">
 
@@ -38,7 +38,7 @@ You know that face but you just can't remember the name to go with it. Here's ho
       </div>
 
       </div>
-</div>
+
 <!--
     </td>
   </tr>
