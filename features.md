@@ -49,10 +49,10 @@ You know that face but you just can't remember the name to go with it. Here's ho
       Every organization has subsets of people that do things together - we call these "groups." For a business, this might be workplace locations or organizational units (like Marketing or Finance). Religious organizations may organize Sunday School classes or committees as groups. Users within your organization can join or show interest in notifications from as many of your groups as they want, making it easy for people to connect and stay engaged.
       </div>
       <div class="col s6 m2">
-        <img class="responsive-img" src="">
+        <img class="responsive-img" src="/images/NameTaggle-iPhone11-04012020-ActivityGroupList.png">
       </div>
       <div class="col s6 m2">      
-        <img class="responsive-img" src="">
+        <img class="responsive-img" src="/images/NameTaggle-iPhone11-04012020-ActivityGroupFocus.png">
       </div>
     </div>
   </div>
