@@ -23,11 +23,12 @@
 <ul class="release-bullets">
 <li>Users can now Sign in with Apple.</li>
 <li>Users can now Sign in with Google.</li>
+<li>First Time launch wizard guides new users through initial setup.</li>
 </ul>
 
 ##### Bug Fixes?
 <ul class="release-bullets">
-<li></li>
+<li>Miscellaneous UI bugs.</li>
 </ul>
 <hr>
 
