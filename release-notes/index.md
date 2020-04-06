@@ -1,4 +1,4 @@
-### Release Notes
+<h1 class="perm-marker">Release Notes </h1>
 
 #### 0.2.1 (Build 49)
 *April 4, 2020*
