@@ -1,7 +1,38 @@
 ### Release Notes
 
+#### 0.2.1 (Build 49)
+*April 4, 2020*
+
+##### What's New?
+<ul class="release-bullets">
+<li>Birthdays and Anniversaries are now available for users to enter. </li>
+<li>We improved the user password reset exerpience.</li>
+<li>Behind the scenes architectural improvements.</li>
+</ul>
+
+##### Bug Fixes?
+<ul class="release-bullets">
+<li>Miscellaneous UI bugs.</li>
+</ul>
+<hr>
+
+#### 0.2.0 (Build 47)
+*February 21, 2020*
+
+##### What's New?
+<ul class="release-bullets">
+<li>Users can now Sign in with Apple.</li>
+<li>Users can now Sign in with Google.</li>
+</ul>
+
+##### Bug Fixes?
+<ul class="release-bullets">
+<li></li>
+</ul>
+<hr>
+
 #### 0.1.3 (Build 41)
-*Scheduled February 21, 2020*
+*March 13, 2020*
 
 ##### What's New?
 <ul class="release-bullets">
