@@ -78,10 +78,10 @@ You know that face but you just can't remember the name to go with it. Here's ho
       Adding Interests is a way to keep track of information about topics and events that may relate to multiple Groups. In an office, this could include "Socializing After Work" events or "Service Opportunities." Religious organizations use the feature for people who want to be notified of things like "Musical Performances," "Volunteers Needed," or "Events for Children."
       </div>
       <div class="col s6 m2">
-        <img class="responsive-img" src="">
+        <img class="responsive-img" src="/images/NameTaggle-iPhone11-04062020-InterestDisplay.png">
       </div>
       <div class="col s6 m2">      
-        <img class="responsive-img" src="">
+        <img class="responsive-img" src="/images/NameTaggle-iPhone11-04062020-InterestEdit.png">
       </div>
     </div>
   </div>
@@ -105,7 +105,7 @@ You know that face but you just can't remember the name to go with it. Here's ho
   <div class="row">
     <div class="col s12 m8">
       Administrators can generate PDF directories for printing and sharing electronically. They can also upload previous directories to keep everything in one place.
-      </div>
+    </div>
     <div class="col s6 m2">
       <img class="responsive-img" src="">
     </div>
