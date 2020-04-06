@@ -90,12 +90,15 @@ You know that face but you just can't remember the name to go with it. Here's ho
   <div class="row">
     <div class="col s12 m8">
       Users with Administrative privileges can control what features are available to users and user groups in the organization.
-    </td>
-    <td class="pic">
-      &nbsp;&nbsp;
-      </div>
+    </div>
+    <div class="col s6 m2">
+      <img class="responsive-img" src="">
+    </div>
+    <div class="col s6 m2">      
+      <img class="responsive-img" src="">
     </div>
   </div>
+</div>
 
 ##### Printable Directory
 <div class="section">
@@ -103,15 +106,14 @@ You know that face but you just can't remember the name to go with it. Here's ho
     <div class="col s12 m8">
       Administrators can generate PDF directories for printing and sharing electronically. They can also upload previous directories to keep everything in one place.
       </div>
-      <div class="col s6 m2">
-        <img class="responsive-img" src="">
-      </div>
-      <div class="col s6 m2">      
-        <img class="responsive-img" src="">
-      </div>
-      </div>
+    <div class="col s6 m2">
+      <img class="responsive-img" src="">
+    </div>
+    <div class="col s6 m2">      
+      <img class="responsive-img" src="">
     </div>
   </div>
+</div>
 
 ##### Sticky Notes
 <div class="section">
