@@ -106,12 +106,14 @@ You know that face but you just can't remember the name to go with it. Here's ho
     <div class="col s12 m8">
       Administrators can generate PDF directories for printing and sharing electronically. They can also upload previous directories to keep everything in one place.
     </div>
+    <!--
     <div class="col s6 m2">
       <img class="responsive-img" src="">
     </div>
     <div class="col s6 m2">      
       <img class="responsive-img" src="">
     </div>
+    -->
   </div>
 </div>
 
@@ -122,10 +124,10 @@ You know that face but you just can't remember the name to go with it. Here's ho
       Sticky Notes are always private and visible only to the user who created them. This gives you a place to jot down details you want to remember without worrying that they'll be unintentionally shared with others. This is a great way to keep track of information that people didn't include in their profile but that you want to remember. You can also search on the content of your sticky notes, so it's easy to find the person you tagged as "a master chef!"
       </div>
       <div class="col s6 m2">
-        <img class="responsive-img" src="">
+        <img class="responsive-img" src="/images/NameTaggle-iPhone11-04062020-StickyNoteList.png">
       </div>
       <div class="col s6 m2">      
-        <img class="responsive-img" src="">
+        <img class="responsive-img" src="/images/NameTaggle-iPhone11-04062020-StickyNoteFocus.png">
       </div>
     </div>
   </div>
