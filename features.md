@@ -30,12 +30,12 @@ You know that face but you just can't remember the name to go with it. Here's ho
 -->
 <div class="col s6 m4">
 
-    <img src="/images/NameTaggle-iPhone11-04012020-IndividualProfileEdit.png">
+    <img class="responsive-img" src="/images/NameTaggle-iPhone11-04012020-IndividualProfileEdit.png">
 
 </div>
 
 <div class="col s6 m4">      
-      <img src="/images/NameTaggle-iPhone11-04012020-IndividualProfileFocus.png">
+      <img class="responsive-img" src="/images/NameTaggle-iPhone11-04012020-IndividualProfileFocus.png">
       </div>
 
 </div>
